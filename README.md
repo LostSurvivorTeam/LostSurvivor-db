@@ -7,4 +7,4 @@ If you are not part of the official Lost Survivor Discord you can join here --> 
 
 Lost Survivor DayZ server Name, IP and Port --> Lost Survivor US Main 37.10.124.213 21000
 
--- Lost Survivor Head Council.
+If you would like to support us read the Funding.yml file under the .github folder. --- Lost Survivor Head Council.
