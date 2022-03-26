@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+
+    <message>
+        <deadline>600</deadline>
+        <shutdown>1</shutdown>
+        <text>The server will shut down in #tmin minutes</text>
+    </message>
+    
+    <message>
+        <repeat>120</repeat>
+        <text>The server restarts in 2 hours</text>
+    </message>
+    
+    <message>
+        <delay>5</delay>
+        <onconnect>1</onconnect>
+        <text>The server restarts every 4 hours</text>
+    </message>
+
+    <message>
+        <repeat>180</repeat>
+        <text>The server restarts in 1 hour</text>
+    </message>
+    
+    <message>
+        <repeat>210</repeat>
+        <text>The server restarts in 30 minutes</text>
+    </message>
+    
+    <message>
+        <repeat>225</repeat>
+        <text>The server restarts in 15 minutes</text>
+    </message>
+    
+    <message>
+        <repeat>235</repeat>
+        <text>The server restarts in 5 minutes</text>
+    </message>
+
+    <message>
+        <delay>120</repeat>
+        <text>The server wipes every 12 months</text>
+    </message>
+
+    <message>
+        <repeat>60</repeat>
+        <text>Join our Discord to for useful tips and to see the server rules! https://discord.gg/hUjbSpWgKc</text>
+    </message>
+
+    <message>
+        <delay>2</delay>
+        <onconnect>1</onconnect>
+        <text>Welcome to #name! we hope you like it here!</text>
+    </message>
+    
+</messages>
